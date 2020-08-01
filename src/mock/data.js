@@ -20,10 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Want your writing to be publish-ready but still sound like you?',
   paragraphTwo: "Whether you're going indie or seeking representation, let your work make the best first impression possible",
-  paragraphThree: '* XXX
-  * yyy
-  * xxxx
-  * xxx',
+  paragraphThree: "* XXX  * yyy  * xxxx  * xxx",
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
