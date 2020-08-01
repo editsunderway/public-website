@@ -45,7 +45,7 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'A simple clean up. What may sometimes be called proofreading: catching grammar mistakes, punctuation issues, and other mechanical issues.'}
+                            'A simple cleanup. What may sometimes be called proofreading: catching grammar mistakes, punctuation issues, and other mechanical issues.'}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
