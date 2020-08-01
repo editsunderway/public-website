@@ -45,7 +45,7 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'Manuscript cleanup: Fixing grammar mistakes, punctuation errors, and other mechanical issues. Pricing per project. Editor will provide sample pages to ensure the correct level of edit needed.'}
+                            'Manuscript cleanup: Fixing grammar mistakes, punctuation errors, and other mechanical issues. Pricing per project. Sample edit will be provided to ensure the correct level of editing is applied.'}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
