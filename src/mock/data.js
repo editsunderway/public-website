@@ -60,7 +60,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Get a free estimate today',
   btn: 'Tell us about your project',
-  email: 'https://russoediting.typeform.com/to/X0OdHM3T',
+  link: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
 // FOOTER DATA
