@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Want your writing to be publish-ready but still sound like you?',
   paragraphTwo: "Whether you're going indie or seeking representation, let your work make the best first impression possible",
-  paragraphThree: "* XXX  * yyy  * xxxx  * xxx",
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphThree: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  • Memoir  • Romance  • Travel  • Women's Fiction",
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -57,9 +57,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Get a free estimate today',
+  btn: 'https://russoediting.typeform.com/to/X0OdHM3T',
+  email: 'russoediting@gmail.com',
 };
 
 // FOOTER DATA
