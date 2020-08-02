@@ -58,8 +58,8 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: 'Get a free estimate today',
-  btn: 'https://russoediting.typeform.com/to/X0OdHM3T',
-  email: 'russoediting@gmail.com',
+  btn: 'Tell us about your project',
+  email: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
 // FOOTER DATA
