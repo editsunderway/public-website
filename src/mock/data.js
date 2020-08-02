@@ -68,7 +68,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: 'twitter.com/editsunderway',
+      url: 'https://twitter.com/editsunderway',
     },
   ],
 };
