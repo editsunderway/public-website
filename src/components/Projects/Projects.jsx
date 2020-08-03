@@ -49,7 +49,6 @@ const Projects = () => {
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
-                      )}
                     </div>
                   </Fade>
                 </Col>
