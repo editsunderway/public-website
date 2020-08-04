@@ -31,8 +31,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Copyediting: A lighter hand',
-    info: 'What most authors think of as proofreading: catching grammar faux pas, punctuation, and other mechanical errors.',
+    title: 'Light Copyedit',
+    info: 'When you need a light hand to catch grammar issues, punctuation, and other mechanical errors. Price per project based on level of edit desired.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -40,8 +40,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Copyediting: A heavier hand',
-    info: 'The lighter edit plus suggestions for rewording to avoid confusion, reformatting, consistency of story tone and an eye for character consistency.',
+    title: 'Heavy Copyedit',
+    info: 'When you need a bit more... This includes a lighter edit plus suggestions for rewording to avoid confusion, reformatting, consistency of story tone and an eye for character consistency. Price per project, based on level of editing desired.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -49,8 +49,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Critique/Feedback',
-    info: 'Review of query letter, synopsis, first pages or full manuscript for feedback on hook, story elements, and cohesion.',
+    title: 'Critique',
+    info: 'Structured review of query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, and cohesion. Price per hour, based on Editorial Freelance Association rates.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
