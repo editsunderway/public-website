@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Want your writing to be publish-ready but still sound like you?',
   paragraphTwo: 
-  paragraphThree: "Whether you're going indie or seeking representation, let your work make the best first impression possible",
+  paragraphThree: "Whether you're going indie or seeking representation, let your work make the best first impression possible. We specialize in personalized copyediting and critique services on the following:",
   paragraphFour: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
   paragraphFive: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
