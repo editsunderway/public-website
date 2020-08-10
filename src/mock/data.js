@@ -50,7 +50,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Critique',
     info: 'Structured review of query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, and overall readability.',
-    info2: 'Pitch critique--$25, query letter critique--$50, synopsis critique--$100. Longer critques and/or beta reading priced per project based on length.',
+    info2: '$25 for pitch critiques, and $50 for query letter critiques. Longer critques and/or beta reading priced per project based on length. Includes up to 3 rounds of feedback.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
