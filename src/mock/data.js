@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Heavy Copyedit',
-    info: 'When you need a bit more... This includes a lighter edit plus suggestions for rewording to avoid confusion, reformatting, consistency of story tone and an eye for character consistency. Price per project, based on level of editing desired.',
+    info: 'When you need a bit more... Includes light copyedit plus suggestions for rewording to avoid confusion, reformatting, and an eye for both character and story consistency. Price per project, based on level of editing desired.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
