@@ -31,7 +31,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Light Copyedit',
-    info: 'When you need a light hand to catch grammar issues, punctuation, and other mechanical errors. Price per project based on level of edit desired.',
+    info: 'When you need a light hand to catch grammar issues, punctuation, and other mechanical errors. Price per project, based on level of edit desired.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Critique',
-    info: 'Structured review of query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, and cohesion. Price per hour, based on Editorial Freelance Association rates.',
+    info: 'Structured review of query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, and cohesion. Pitch critique $25, query letter critique $50, synopsis critique $100. Longer critques and/or beta reading priced per project based on length.',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
