@@ -49,8 +49,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Critique',
-    info: "Need to know if you're hitting the mark? Structured review of pitch, query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, and overall impression. Beta reading aso available.",
-    info2: '$60 for pitch critiques, and $100 for query letter critiques. Longer critques and/or beta reading priced per project based on length. Includes up to 3 rounds of feedback.',
+    info: "Need to know if you're hitting the mark? Structured review of pitch, query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, dialogue, and more. Beta reading aso available.",
+    info2: '$60 for pitch critiques, and $100 for query letter critiques. Longer critques and/or beta reading priced per project based on length. (Includes up to 3 rounds of feedback.)',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
