@@ -1,4 +1,4 @@
-import { nanoid } from 'nanoid';
+ngimport { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
@@ -12,7 +12,7 @@ export const heroData = {
   title: 'With',
   name: 'Edits Underway',
   subtitle: "You'll see what's possible...",
-  cta: 'Book editing services today',
+  cta: 'Book a slot now',
 };
 
 // ABOUT DATA
@@ -58,8 +58,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Get a free estimate today',
-  btn: 'Tell us about your project',
+  cta: 'Ready to see your story shine?',
+  btn: 'Contact the editor',
   link: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
