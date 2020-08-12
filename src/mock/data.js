@@ -40,7 +40,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Heavy Copyedit',
-    info: 'When you need a bit more... Includes light copyedit plus suggestions for rewording to avoid confusion, reformatting, and an eye for both character and story consistency.',
+    info: 'When you need a bit more... Includes light copyedit, plus suggestions for revisions to avoid confusion, and a deeper look at character and story consistency.',
     info2: 'Price per project, based on level of editing desired.',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -49,8 +49,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Critique',
-    info: "Need to know if you're hitting the mark? Structured review of pitch, query letter, book jacket material, synopsis, first pages. Includes feedback on hook, story elements, dialogue, and more. Beta reading also available.",
-    info2: '$60 for pitch critiques, and $100 for query letter critiques. Longer critques and/or beta reading priced per project based on length. (Includes up to 3 rounds of feedback.)',
+    info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages. Includes feedback on hook, story elements, dialogue, and more. Beta reading also available.",
+    info2: '$60 for pitch critiques, and $100 for query letter critiques. (Includes up to 3 rounds of feedback.) Longer critques and/or beta reading priced per project based on length.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
