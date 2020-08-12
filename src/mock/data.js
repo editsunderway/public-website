@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Welcome to',
+  title: 'With',
   name: 'Edits Underway',
-  subtitle: "See what's possible...",
-  cta: 'Get an estimate today',
+  subtitle: "You'll see what's possible...",
+  cta: 'Book editing services today',
 };
 
 // ABOUT DATA
