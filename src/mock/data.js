@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   name: "You've written your story",
   subtitle: "Now you're ready to share it",
-  cta: "Get a free estimate today",
+  cta: "Contact the editor",
 };
 
 // ABOUT DATA
@@ -35,7 +35,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'light-edit.jpg',
     title: 'Light Copyedit',
-    info: 'A light edit to catch grammar , punctuation, and other mechanical errors.',
+    info: 'A light edit to catch grammar, punctuation, and other mechanical errors.',
     info2: 'The fastest and most inexpensive way to get you publish-ready, while retaining your voice.',
     info3: '',
     url: '',
