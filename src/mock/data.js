@@ -9,11 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'With',
-  img: 'frontpage-image.jpg',
+  title: '',
   name: "You've written your story",
-  subtitle: "Together, we can prepare it for the world",
-  cta: 'Book a slot now',
+  subtitle: "Now you're ready to share it",
+  cta: "We can do it",
 };
 
 // ABOUT DATA
