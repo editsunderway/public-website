@@ -10,6 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'With',
+  img: 'frontpage-image.jpg',
   name: 'Edits Underway',
   subtitle: "You'll see what's possible...",
   cta: 'Book a slot now',
