@@ -34,8 +34,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'light-edit.jpg',
-    title: 'Light Copyedit',
-    info: 'A light edit to catch grammar, punctuation, and other mechanical errors.',
+    title: 'Light Edit',
+    info: 'A light copyedit to catch grammar, punctuation, and other mechanical errors.',
     info2: 'The fastest and most inexpensive way to get you publish-ready, while retaining your voice.',
     info3: '',
     url: '',
@@ -44,8 +44,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'heavy-edit.jpg',
-    title: 'Heavy Copyedit',
-    info: 'Everything in a Light Copyedit, plus:',
+    title: 'Heavy Edit',
+    info: 'Everything in a Light Edit, plus:',
     info2: '• A deeper look at character and story consistency',
     info3: '• Specific suggestions to keep your reader engaged',
     url: '',
