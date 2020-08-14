@@ -24,6 +24,9 @@ export const aboutData = {
   paragraphFive: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
   paragraphSix: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
+  cta: 'Ready to see your story shine?',
+  btn: 'Contact the editor',
+  link: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
 // PROJECTS DATA
