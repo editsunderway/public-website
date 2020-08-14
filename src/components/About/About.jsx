@@ -59,8 +59,6 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   {paragraphSix || ''}
                 </p>                
-                {resume && (
-                  <span className="d-flex mt-3">
                     <Fade bottom duration={1000} delay={800} distance="30px">
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
@@ -76,8 +74,6 @@ const About = () => {
             </a>
           </div>
         </Fade>
-                  </span>
-                )}
               </div>
             </Fade>
           </Col>
