@@ -12,7 +12,7 @@ export const heroData = {
   title: 'With',
   img: 'frontpage-image.jpg',
   name: "You've written your story",
-  subtitle: "Now let's share it with others",
+  subtitle: "Together, we can prepare it for the world",
   cta: 'Book a slot now',
 };
 
