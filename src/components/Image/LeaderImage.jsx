@@ -3,7 +3,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
-const AboutImg = ({ filename, alt }) => (
+const LeaderImg = ({ filename, alt }) => (
   <StaticQuery
     query={graphql`
       query {
