@@ -9,7 +9,6 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
   name: "You've written your story",
   subtitle: "Now you're ready to share it",
   cta: "Get a free estimate today",
