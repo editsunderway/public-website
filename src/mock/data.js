@@ -17,8 +17,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'frontpage-image.jpg',
-  paragraphOne: "You want your story to be published, and your unique voice retained',
-  paragraphTwo: "Whether you're going indie or seeking representation, let your work make the best first impression possible. Specializing in personalized copyediting and critique services for the following:",
+  paragraphOne: "Want your story published, yet with your raw voice retained?",
+  paragraphTwo: "Whether you're going indie or seeking representation, you need to make a strong first impression. Specializing in personalized copyediting and critique services for the following:",
   paragraphThree: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
   paragraphFour: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
