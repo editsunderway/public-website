@@ -18,9 +18,9 @@ export const heroData = {
 export const aboutData = {
   img: 'frontpage-image.jpg',
   paragraphOne: "Want your story published, but concerned your voice will be lost?",
-  paragraphTwo: "I understand how it feels when you've created the perfect story, and just want that extra bit of help or second look.",
+  paragraphTwo: "We understand how it feels when you've created the perfect story, and just want that extra bit of help or second look.",
   paragraphThree: "Whether you're going indie or seeking representation, you need to make a strong first impression.", 
-  paragraphFour: "I specialize in personalized copyediting and critique services for:",
+  paragraphFour: "We specialize in personalized copyediting and critique services for:",
   paragraphFive: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
   paragraphSix: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
@@ -53,8 +53,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Critique',
     info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages.",
-    info2: 'Includes feedback on hook, story elements, dialogue, and more. Beta reading also available',
-    info3: '',
+    info2: 'Includes feedback on hook, story elements, dialogue, and more.',
+    info3: 'Beta reading also available',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
