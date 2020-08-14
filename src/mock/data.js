@@ -1,4 +1,4 @@
-ngimport { nanoid } from 'nanoid';
+import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
@@ -11,8 +11,8 @@ export const headData = {
 export const heroData = {
   title: 'With',
   img: 'frontpage-image.jpg',
-  name: 'Edits Underway',
-  subtitle: "You'll see what's possible...",
+  name: "You've written your story",
+  subtitle: "Now let's share it with others",
   cta: 'Book a slot now',
 };
 
