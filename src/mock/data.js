@@ -17,10 +17,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'frontpage-image.jpg',
-  paragraphOne: "Want your story published, yet with your raw voice retained?",
-  paragraphTwo: "Whether you're going indie or seeking representation, you need to make a strong first impression. Specializing in personalized copyediting and critique services for the following:",
-  paragraphThree: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
-  paragraphFour: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
+  paragraphOne: "Want your story published, but concerned your voice will be lost?",
+  paragraphTwo: "I understand how it feels when you've created the perfect story, and just want that extra bit of help or second look.",
+  paragraphThree: "Whether you're going indie or seeking representation, you need to make a strong first impression.", 
+  paragraphFour: "I specialize in personalized copyediting and critique services for:",
+  paragraphFive: "• Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
+  paragraphSix: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
 };
 
@@ -29,9 +31,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Light Editing',
-    info: 'When you need a light hand to catch grammar issues, punctuation, and other mechanical errors.',
-    info2: 'Price per project, based on level of edit desired.',
+    title: 'Light Copyedit',
+    info: 'A light edit to catch grammar , punctuation, and other mechanical errors.',
+    info2: 'The fastest and most inexpensive way to get you publish-ready, while retaining your voice',
+    info3: '',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
@@ -39,8 +42,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Heavy Copyedit',
-    info: 'When you need a bit more... Includes light copyedit, plus suggestions for revisions to avoid confusion, and a deeper look at character and story consistency.',
-    info2: 'Price per project, based on level of editing desired.',
+    info: 'Everything in a Light Copyedit, plus:',
+    info2: '• A deeper look at character and story consistency',
+    info3: '• Specific suggestions to keep your reader engaged',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
@@ -48,8 +52,20 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Critique',
-    info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages. Includes feedback on hook, story elements, dialogue, and more. Beta reading also available.",
-    info2: '',
+    info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages.",
+    info2: 'Includes feedback on hook, story elements, dialogue, and more. Beta reading also available',
+    info3: '',
+    url: '',
+    repo: '', // if no repo, the button will not show up
+  },
+  
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Custom Packages',
+    info: "Unsure where to start? We can design a custom editorial and pre-publishing package designed for your unique needs.",
+    info2: 'Contact us today to learn how we can work for you.',
+    info3: '',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
