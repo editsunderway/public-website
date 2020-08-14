@@ -53,7 +53,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'critique.jpg',
     title: 'Critique',
     info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages.",
     info2: 'Includes feedback on hook, story elements, dialogue, and more.',
