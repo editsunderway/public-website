@@ -28,7 +28,7 @@ const Projects = () => {
         <div className="project-wrapper">
           <Title title="Services" />
           {projects.map((project) => {
-            const { title, info, info2, url, repo, img, id } = project;
+            const { title, info, info2, info3, url, repo, img, id } = project;
 
             return (
               <Row key={id}>
@@ -41,13 +41,11 @@ const Projects = () => {
                     distance="30px"
                   >
                     <div className="project-wrapper__text">
-                      <h3 className="project-wrapper__text-title">{title || 'Light Edit'}</h3>
+                      <h3 className="project-wrapper__text-title">{title}</h3>
                       <div>
-                        <p>
-                          {info ||
-                            'Manuscript cleanup: Fixing grammar mistakes, punctuation errors, and other mechanical issues. Pricing per project. Sample edit will be provided to ensure you get the amount of editing you need.'}
-                        </p>
-                        <p className="mb-4">{info2 || ''}</p>
+                        <p>{info}</p>
+                        <p className="mb-4">{info2}</p>
+                        <p className="mb-4">{info3}</p>
                       </div>
                     </div>
                   </Fade>
