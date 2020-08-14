@@ -12,7 +12,7 @@ export const heroData = {
   title: '',
   name: "You've written your story",
   subtitle: "Now you're ready to share it",
-  cta: "We can do it",
+  cta: "Get a free estimate today",
 };
 
 // ABOUT DATA
