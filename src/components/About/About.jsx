@@ -59,21 +59,7 @@ const About = () => {
                 </p>                
                 {resume && (
                   <span className="d-flex mt-3">
-                    <a
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="cta-btn cta-btn--resume"
-                      href={resume}
-                    >
-                      Resume
-                    </a>
-                  </span>
-                )}
-              </div>
-            </Fade>
-          </Col>
-        </Row>
-         <Fade bottom duration={1000} delay={800} distance="30px">
+                    <Fade bottom duration={1000} delay={800} distance="30px">
           <div className="contact-wrapper">
             <p className="contact-wrapper__text">
               {cta || 'Would you like to work with me? Awesome!'}
@@ -88,6 +74,13 @@ const About = () => {
             </a>
           </div>
         </Fade>
+                  </span>
+                )}
+              </div>
+            </Fade>
+          </Col>
+        </Row>
+         
       </Container>
     </section>
   );
