@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   name: "You've written your story",
   subtitle: "Now you're ready to share it",
-  cta: "Contact the editor",
+  cta: "Contact an editor today",
 };
 
 // ABOUT DATA
@@ -25,7 +25,7 @@ export const aboutData = {
   paragraphSix: "• Memoir  • Romance  • Travel  • Women's Fiction  •",
   resume: '', // if no resume, the button will not show up
   cta: 'Ready to see your story shine?',
-  btn: 'Contact the editor',
+  btn: 'Get an estimate for your project',
   link: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
@@ -66,7 +66,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'custom-package.jpg',
     title: 'Custom Packages',
-    info: "Unsure where to start? We can design a custom editorial and pre-publishing package designed for your unique needs.",
+    info: "Unsure where to start? We can design a custom editorial package designed for your unique needs.",
     info2: 'Contact us today to learn how we can work for you.',
     info3: '',
     url: '',
