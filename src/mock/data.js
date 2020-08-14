@@ -36,7 +36,7 @@ export const projectsData = [
     img: 'light-edit.jpg',
     title: 'Light Copyedit',
     info: 'A light edit to catch grammar , punctuation, and other mechanical errors.',
-    info2: 'The fastest and most inexpensive way to get you publish-ready, while retaining your voice',
+    info2: 'The fastest and most inexpensive way to get you publish-ready, while retaining your voice.',
     info3: '',
     url: '',
     repo: '', // if no repo, the button will not show up
@@ -57,7 +57,7 @@ export const projectsData = [
     title: 'Critique',
     info: "Need to know if you're hitting the mark? Get a structured review of pitch, query letter, book jacket material, synopsis, or first pages.",
     info2: 'Includes feedback on hook, story elements, dialogue, and more.',
-    info3: 'Beta reading also available',
+    info3: 'Beta reading also available.',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
