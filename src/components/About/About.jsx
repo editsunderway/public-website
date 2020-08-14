@@ -45,9 +45,11 @@ const About = () => {
                   {paragraphTwo ||
                     ''}
                 </p>
+                <p></p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || ''}
                 </p>
+                <p></p>
                 <p className="about-wrapper__info-text">
                   {paragraphFour || ''}
                 </p>             
