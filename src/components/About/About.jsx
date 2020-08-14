@@ -53,7 +53,10 @@ const About = () => {
                 </p>             
                 <p className="about-wrapper__info-text">
                   {paragraphFive || ''}
-                </p>                      
+                </p>          
+                <p className="about-wrapper__info-text">
+                  {paragraphSix || ''}
+                </p>                
                 {resume && (
                   <span className="d-flex mt-3">
                     <a
