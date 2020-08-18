@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   name: "You've written your story",
   subtitle: "Now you're ready to share it",
-  cta: "Contact an editor today",
+  cta: "See what's possible...",
 };
 
 // ABOUT DATA
