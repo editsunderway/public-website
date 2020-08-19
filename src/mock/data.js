@@ -77,7 +77,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: 'Ready to see your story shine?',
-  btn: 'Contact the editor',
+  btn: 'Get an estimate now',
   link: 'https://russoediting.typeform.com/to/X0OdHM3T',
 };
 
