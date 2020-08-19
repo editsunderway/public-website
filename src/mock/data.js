@@ -26,7 +26,7 @@ export const aboutData = {
   resume: '', // if no resume, the button will not show up
   cta: 'Ready to see your story shine?',
   btn: 'Get an estimate for your project',
-  link: 'https://russoediting.typeform.com/to/X0OdHM3T',
+  link: 'https://editsunderway.typeform.com/to/X0OdHM3T',
 };
 
 // PROJECTS DATA
@@ -78,7 +78,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Ready to see your story shine?',
   btn: 'Get an estimate now',
-  link: 'https://russoediting.typeform.com/to/X0OdHM3T',
+  link: 'https://editsunderway.typeform.com/to/X0OdHM3T',
 };
 
 // FOOTER DATA
