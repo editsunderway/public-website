@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphTwo: "We understand how it feels when you've created the perfect story, and just want that extra bit of help or second look.",
   paragraphThree: "Whether you're going indie or seeking representation, you need to make a strong first impression.", 
   paragraphFour: "We specialize in personalized copyediting and critique services for:",
-  paragraphFive: "Adventure  • Book Club Fiction  • Culture  • General Fiction  •",
+  paragraphFive: "Adventure  • Book Club Fiction  • Culture  •&nbsp;General Fiction  •",
   paragraphSix: "Memoir  • Romance  • Women's Fiction  • Travel  •",
   resume: '', // if no resume, the button will not show up
   cta: 'Ready to see your story shine?',
